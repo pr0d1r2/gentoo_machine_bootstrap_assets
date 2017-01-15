@@ -1,0 +1,7 @@
+node.json
+5d07ce91728497b630c4c5c5e06dfd6346ef60a3ba1379248cfe4f417e185db3.iso
+portage-*.tar.xz
+stage3-*.tar.bz2
+*.DIGESTS
+*.md5sum
+packages/sys-kernel/gentoo-sources*
